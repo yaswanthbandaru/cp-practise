@@ -7,3 +7,7 @@ princeton/
 kickstart/
 
 mocks/
+
+/.vscode
+
+*/.cph/
